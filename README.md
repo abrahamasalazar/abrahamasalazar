@@ -7,11 +7,7 @@
   to pass the time, I than took a course at Bloom Institute of Technology. 
   
 #### Languages
-- 🗣️ Communication:
-
-  English: (Distinguished), (C2)
-
-  Spanish: (Superior), (C1)
+- 🗣️ Communication: English: (Distinguished), (C2) & Spanish: (Superior), (C1)
 
 - 🌐 Front-End:
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -26,7 +22,16 @@
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgreSQL)
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=SQL)
 
+#### Socials
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+
 #### Contact Me
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=iCloud&logoColor=white&link=mailto:salazar.54321@icloud.com)](mailto:salazar.54321@icloud.com)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/abrahamasalazar)](https://github.com/abrahamasalazar)
+
+### Make A Contribution
+![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
   
