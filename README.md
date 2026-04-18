@@ -3,10 +3,15 @@
 
 
 #### About Me 
-- I am self-taught full stack web developer. I began learning how to code on an app called <img src="https://mimo.org" width="30px"> during the COVID-19 pandemic,
-  my purpose was to pass the time. 
+- I am self-taught full stack web developer. I began learning how to code on an app called during the COVID-19 pandemic
+  to pass the time, I than took a course at Bloom Institute of Technology. 
   
 #### Languages
+- 🗣️ Communication:
+  English: (Distinguished), (C2)
+
+  Spanish: (Superior), (C1)
+
 - 🌐 Front-End:
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
