@@ -5,7 +5,8 @@
 #### About Me 
 - 👩🏻‍💻 I am a bootcamp grad from BloomTech and I have learned all of the Full-Stack courses. 
      I am pursuing a career as a Frontend Web Developer or Software Engineer.
-- 💻 Languages: 
+  
+#### Languages
 - 🌐 Front-End:
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -19,8 +20,6 @@
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgreSQL)
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=SQL)
 
-  
-  
   #### Contact Me
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=iCloud&logoColor=white&link=mailto:salazar.54321@icloud.com)](mailto:salazar.54321@icloud.com)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/abrahamasalazar)](https://github.com/abrahamasalazar)
