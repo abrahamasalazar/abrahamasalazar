@@ -8,6 +8,7 @@
   
 #### Languages
 - 🗣️ Communication:
+
   English: (Distinguished), (C2)
 
   Spanish: (Superior), (C1)
