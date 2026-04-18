@@ -3,7 +3,7 @@
 
 
 #### About Me 
-- I am self-taught full stack web developer. I began learning how to code on an app called <img src="[https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AMimo_Logo.png&ved=0CBYQjRxqFwoTCLDyqd-J-JMDFQAAAAAdAAAAABAF&opi=89978449](https://cdn.jim-nielsen.com/ios/512/mimo-learn-to-code-2018-11-28.png?rf=1024)" width="30px"> during the COVID-19 pandemic,
+- I am self-taught full stack web developer. I began learning how to code on an app called <img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AMimo_Logo.png&ved=0CBYQjRxqFwoTCLDyqd-J-JMDFQAAAAAdAAAAABAF&opi=89978449](https://cdn.jim-nielsen.com/ios/512/mimo-learn-to-code-2018-11-28.png?rf=1024)" width="30px"> during the COVID-19 pandemic,
   my purpose was to pass the time. 
   
 #### Languages
