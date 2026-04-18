@@ -1,10 +1,13 @@
 # 👨🏻‍💻
-### My name is [Abraham Armando Salazar](https://github.com/abrahamasalazar)!
+### My name is [Abraham Armando Salazar](https://github.com/abrahamasalazar)
 
 
 #### About Me 
-- I am self-taught full stack web developer. I began learning how to code on an app called during the COVID-19 pandemic
-  to pass the time, I than took a course at Bloom Institute of Technology. 
+- I’m a self-taught full-stack web developer who began learning to code during the COVID-19 pandemic
+  as a way to stay productive. I later expanded my skills by completing a course at Bloom Institute of Technology.
+  While my current career isn’t in software development, I stay connected to my passion for helping others
+  by working as an EMT (Emergency Medical Technician). In addition, I run an EDM (Electronic Dance Music)
+  station, <a href="https://linktr.ee/megahzradio" target="_blank">MegaHz Radio</a>.
   
 #### Languages
 - 🗣️ Communication: 🇺🇸English: (Distinguished), (C2) & 🇪🇸Spanish: (Superior), (C1)
