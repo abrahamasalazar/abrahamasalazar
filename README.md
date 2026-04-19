@@ -1,13 +1,11 @@
-# 👨🏻‍💻
-### My name is [Abraham Armando Salazar](https://github.com/abrahamasalazar)
-
+### My name is Abraham Armando Salazar
 
 #### About Me 
 - I’m a self-taught full-stack web developer who began learning to code during the COVID-19 pandemic
   as a way to stay productive. I later expanded my skills by completing a course at Bloom Institute of Technology.
   While my current career isn’t in software development, I stay connected to my passion for helping others
   by working as an EMT (Emergency Medical Technician). In addition, I run an EDM (Electronic Dance Music)
-  station, <a href="https://linktr.ee/megahzradio" target="_blank">MegaHz Radio</a>.
+  station, <a href="https://linktr.ee/megahzradio" target="_blank"><b>MegaHz Radio</b></a>.
   
 #### Languages
 - 🗣️ Communication: 🇺🇸English: (Distinguished), (C2) & 🇪🇸Spanish: (Superior), (C1)
@@ -34,6 +32,3 @@
 #### Contact Me
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=iCloud&logoColor=white&link=mailto:salazar.54321@icloud.com)](mailto:salazar.54321@icloud.com)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/abrahamasalazar)](https://github.com/abrahamasalazar)
-
-### Make A Contribution
-<a href="https://www.buymeacoffee.com/abrahamthanksyou" target="_blank">![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)</a>
