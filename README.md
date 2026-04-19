@@ -31,4 +31,3 @@
 
 #### Contact Me
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=iCloud&logoColor=white&link=mailto:salazar.54321@icloud.com)](mailto:salazar.54321@icloud.com)
-[![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/abrahamasalazar)](https://github.com/abrahamasalazar)
