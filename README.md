@@ -1,11 +1,13 @@
 ### My name is Abraham Armando Salazar
 
+
 #### About Me 
 - I’m a self-taught full-stack web developer who began learning to code during the COVID-19 pandemic
   as a way to stay productive. I later expanded my skills by completing a course at Bloom Institute of Technology.
   While my current career isn’t currently in software development, I stay connected to my passion for helping others
   by working as an EMT (Emergency Medical Technician). In addition, I run an EDM (Electronic Dance Music)
-  station, <a href="https://linktr.ee/megahzradio" target="_blank"><b>MegaHz Radio</b></a>. I enjoy coding once in awhile, especially      when I am building something resourceful and accesible. 
+  station, <a href="https://linktr.ee/megahzradio" target="_blank"><b>MegaHz Radio</b></a>. I enjoy coding once in awhile, especially      when I am building something resourceful and accesible.
+  
   
 #### Languages
 - 🗣️ Communication: 🇺🇸English: (Distinguished), (C2) & 🇪🇸Spanish: (Superior), (C1)
@@ -22,11 +24,13 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgreSQL)
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=SQL)
+  
 
 #### Notable Projects
 <a href="https://www.megahzradio.com" target="_blank"><b>MegaHz Radio App</b></a>
 
 <a href="https://ernow-test.vercel.app" target="_blank"><b>erNow App</b></a>
+
 
 #### Socials
 <a href="https://www.facebook.com/activekingabe" target="_blank">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
