@@ -1,4 +1,4 @@
-### My name is Abraham Armando Salazar
+### My name is Abraham Salazar
 
 
 #### About Me 
@@ -25,12 +25,6 @@
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgreSQL)
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=SQL)
   
-
-#### Notable Projects
-<a href="https://app.megahzradio.com" target="_blank"><b>MegaHz Radio App</b></a>
-
-<a href="https://ernow-test.vercel.app" target="_blank"><b>erNow App</b></a>
-
 
 #### Socials
 <a href="https://www.facebook.com/activekingabe" target="_blank">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
