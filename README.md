@@ -1,18 +1,17 @@
-### My name is Abraham Salazar
+### Hello, World! My name is Abraham Salazar 🤩
 
 
 #### About Me 
-- I’m a self-taught full-stack web developer who began learning to code during the COVID-19 pandemic
-  as a way to stay productive. I later expanded my skills by completing a course at Bloom Institute of Technology.
-  While my current career isn’t currently in software development, I stay connected to my passion for helping others
-  by working as an EMT (Emergency Medical Technician). In addition, I run an EDM (Electronic Dance Music)
-  station, <a href="https://linktr.ee/megahzradio" target="_blank"><b>MegaHz Radio</b></a>. I enjoy coding once in awhile, especially      when I am building something resourceful and accesible.
+- Full Stack Developer, Flutter, & iOS 👨🏻‍💻
+- EMT & EMD Certified 🪪
+- Los Angeles native 🌇
+- Mexican-American 🇲🇽 🇺🇸
   
   
 #### Languages
 - 🗣️ Communication: 🇺🇸English: (Distinguished), (C2) - 🇪🇸Spanish: (Superior), (C1) - 🇦🇲Armenian: (Beginner), (A1)
 
-- 🌐 Front-End:
+- 🎨 Front-End:
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -20,7 +19,7 @@
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 
-- 📊 Back-End:
+- ⚙️ Back-End:
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgreSQL)
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=SQL)
