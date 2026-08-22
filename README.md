@@ -11,24 +11,36 @@
 #### Languages
 - 🇺🇸English (Distinguished), (C2) - 🇪🇸Spanish (Superior), (C1) - 🇦🇲Armenian (Beginner), (A1)
 
-- 🎨 Front-End:
+- ⚙️ Code:
+- Primary OS:
+  ![iOS](https://img.shields.io/badge/iOS-%23000000.svg?style=for-the-badge&logo=ios&logoColor=white)
+  ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
+
+
+- Language:
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+  ![Swift](https://img.shields.io/badge/swift-%23F54A2A.svg?style=for-the-badge&logo=swift&logoColor=white)
+  ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-
-- ⚙️ Back-End:
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgreSQL)
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=SQL)
+
+- IDEs
+  ![Xcode](https://img.shields.io/badge/Xcode-%23007ACC.svg?style=for-the-badge&logo=Xcode&logoColor=white)
   
 
 #### Socials
+<a href="https://www.linkedin.com/in/abrahamasalazar" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 <a href="https://www.facebook.com/activekingabe" target="_blank">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
 <a href="https://www.instagram.com/activekingabraham" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/abrahamasalazar" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+<a href="________" target="_blank">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
+<a href="________" target="_blank">![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
 
 
 #### Contact Me
