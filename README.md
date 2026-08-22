@@ -1,14 +1,14 @@
 ### Hello, World! My name is Abraham Salazar 🤩
 
 
-### About Me 
+### 🔘 About Me 
 - Full Stack, Flutter, & iOS Developer 👨🏻‍💻
 - EMT & EMD Certified 🪪
 - Los Angeles native 🌇
 - Mexican-American 🇲🇽 🇺🇸
   
   
-### Languages
+### 🔘 Languages
 
 #### Spoken:
 - 🇺🇸 English (Distinguished), (C2)<br>
