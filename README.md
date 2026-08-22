@@ -11,7 +11,7 @@
 #### Languages
 - 🇺🇸English (Distinguished), (C2) - 🇪🇸Spanish (Superior), (C1) - 🇦🇲Armenian (Beginner), (A1)
 
-- ⚙️ Code:
+### Code:
 - Primary OS:
   ![iOS](https://img.shields.io/badge/iOS-%23000000.svg?style=for-the-badge&logo=ios&logoColor=white)
   ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
