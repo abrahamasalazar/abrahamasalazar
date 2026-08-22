@@ -2,7 +2,7 @@
 
 
 ### About Me 
-- Full Stack Developer, Flutter, & iOS 👨🏻‍💻
+- Full Stack, Flutter, & iOS Developer 👨🏻‍💻
 - EMT & EMD Certified 🪪
 - Los Angeles native 🌇
 - Mexican-American 🇲🇽 🇺🇸
