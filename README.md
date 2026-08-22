@@ -1,6 +1,7 @@
 ## Hello, World! My name is Abraham Salazar 👋🏻
 
 
+
 ### 🔘 About Me 
   - Full Stack, Flutter, & iOS Developer 👨🏻‍💻
   - EMT & EMD Certified 🪪
@@ -16,6 +17,7 @@
   ![Xcode](https://img.shields.io/badge/Xcode-%23007ACC.svg?style=for-the-badge&logo=Xcode&logoColor=white)<br>
   [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)<br>
   
+
   
   
 ### 🔘 Languages
@@ -38,6 +40,8 @@
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)<br>
   ![NodeJS](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)<br>
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)<br>
+
+
   
   
 ### 🔘 Socials
