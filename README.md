@@ -13,7 +13,7 @@
   
 #### 🔘 IDEs:
   ![Xcode](https://img.shields.io/badge/Xcode-%23007ACC.svg?style=for-the-badge&logo=Xcode&logoColor=white)<br>
-  [![Install in VS Code](https://img.shields.io/badge/Install_in-VS_Code-0098FF?style=flat-square&logo=visualstudiocode&logoColor=white)](https://vscode.dev/redirect/mcp/install?name=visual%20code%20studio&config=%7B%22type%22%3A%22http%22%2C%22url%22%3A%22%22%7D)
+  [![VS Code](https://img.shields.io/badge/VS_Code-0098FF?style=flat-square&logo=visualstudiocode&logoColor=white)](https://vscode.dev/redirect/mcp/install?name=visual%20code%20studio&config=%7B%22type%22%3A%22http%22%2C%22url%22%3A%22%22%7D)
   
   
   
