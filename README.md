@@ -13,8 +13,8 @@
   
 #### 🔘 IDEs:
   ![Xcode](https://img.shields.io/badge/Xcode-%23007ACC.svg?style=for-the-badge&logo=Xcode&logoColor=white)<br>
-  [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
- 
+  [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)<br>
+ [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
   
   
   
