@@ -6,6 +6,13 @@
   - EMT & EMD Certified 🪪
   - Los Angeles native 🌇
   - Mexican-American 🇲🇽 🇺🇸
+
+#### 🔘 Primary OS:
+  ![iOS](https://img.shields.io/badge/iOS-%23000000.svg?style=for-the-badge&logo=ios&logoColor=white)<br>
+  ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)<br>
+  
+#### 🔘 IDE:
+  ![Xcode](https://img.shields.io/badge/Xcode-%23007ACC.svg?style=for-the-badge&logo=Xcode&logoColor=white)
   
   
 ### 🔘 Languages
@@ -14,13 +21,6 @@
   - 🇺🇸 English (Distinguished), (C2)<br>
   - 🇪🇸 Spanish (Superior), (C1)<br>
   - 🇦🇲 Armenian (Beginner), (A1)
-
-#### 🔘 Primary OS:
-  ![iOS](https://img.shields.io/badge/iOS-%23000000.svg?style=for-the-badge&logo=ios&logoColor=white)<br>
-  ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)<br>
-  
-#### 🔘 IDE:
-  ![Xcode](https://img.shields.io/badge/Xcode-%23007ACC.svg?style=for-the-badge&logo=Xcode&logoColor=white)
 
 #### Code:
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)<br>
@@ -34,6 +34,7 @@
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)<br>
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)<br>
   ![NodeJS](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)<br>
+  
   
 ### 🔘 Socials
 <a href="https://www.linkedin.com/in/abrahamasalazar" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a><br>
