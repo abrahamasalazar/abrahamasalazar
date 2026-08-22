@@ -1,17 +1,17 @@
 ### Hello, World! My name is Abraham Salazar 🤩
 
 
-#### About Me 
+### About Me 
 - Full Stack Developer, Flutter, & iOS 👨🏻‍💻
 - EMT & EMD Certified 🪪
 - Los Angeles native 🌇 - Nomad-primarily 🌎
 - Mexican-American 🇲🇽 🇺🇸
   
   
-#### Languages
+### Languages
 - 🇺🇸English (Distinguished), (C2) - 🇪🇸Spanish (Superior), (C1) - 🇦🇲Armenian (Beginner), (A1)
 
-### Code:
+#### Code:
 - Primary OS:
   ![iOS](https://img.shields.io/badge/iOS-%23000000.svg?style=for-the-badge&logo=ios&logoColor=white)
   ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
@@ -35,7 +35,7 @@
   ![Xcode](https://img.shields.io/badge/Xcode-%23007ACC.svg?style=for-the-badge&logo=Xcode&logoColor=white)
   
 
-#### Socials
+### Socials
 <a href="https://www.linkedin.com/in/abrahamasalazar" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 <a href="https://www.facebook.com/activekingabe" target="_blank">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
 <a href="https://www.instagram.com/activekingabraham" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
@@ -43,5 +43,5 @@
 <a href="________" target="_blank">![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
 
 
-#### Contact Me
+### Contact Me
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=iCloud&logoColor=white&link=mailto:salazar.54321@icloud.com)](mailto:salazar.54321@icloud.com)
