@@ -39,7 +39,7 @@
   
 
 ### Socials
-<a href="https://www.linkedin.com/in/abrahamasalazar" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>, 
-<a href="https://www.facebook.com/activekingabe" target="_blank">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>, 
-<a href="https://www.instagram.com/activekingabraham" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>, 
-<a href="https://wa.me/activekingabraham" target="_blank">![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/abrahamasalazar" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a><br>
+<a href="https://www.facebook.com/activekingabe" target="_blank">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a><br>
+<a href="https://www.instagram.com/activekingabraham" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a><br>
+<a href="https://wa.me/activekingabraham" target="_blank">![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)</a><br>
