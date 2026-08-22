@@ -2,18 +2,18 @@
 
 
 ### 🔘 About Me 
-- Full Stack, Flutter, & iOS Developer 👨🏻‍💻
-- EMT & EMD Certified 🪪
-- Los Angeles native 🌇
-- Mexican-American 🇲🇽 🇺🇸
+  - Full Stack, Flutter, & iOS Developer 👨🏻‍💻
+  - EMT & EMD Certified 🪪
+  - Los Angeles native 🌇
+  - Mexican-American 🇲🇽 🇺🇸
   
   
 ### 🔘 Languages
 
-#### Spoken:
-- 🇺🇸 English (Distinguished), (C2)<br>
-- 🇪🇸 Spanish (Superior), (C1)<br>
-- 🇦🇲 Armenian (Beginner), (A1)
+  #### Spoken:
+  - 🇺🇸 English (Distinguished), (C2)<br>
+  - 🇪🇸 Spanish (Superior), (C1)<br>
+  - 🇦🇲 Armenian (Beginner), (A1)
 
 #### Code:
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)<br>
