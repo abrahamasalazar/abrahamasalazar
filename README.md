@@ -1,4 +1,4 @@
-## Hello, World! My name is Abraham Salazar 🤩
+## Hello, World! My name is Abraham Salazar 👋🏻
 
 
 ### 🔘 About Me 
