@@ -14,12 +14,6 @@
 - 🇺🇸English (Distinguished), (C2) - 🇪🇸Spanish (Superior), (C1) - 🇦🇲Armenian (Beginner), (A1)
 
 #### Code:
-- Primary OS:
-  ![iOS](https://img.shields.io/badge/iOS-%23000000.svg?style=for-the-badge&logo=ios&logoColor=white), 
-  ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
-
-
-- Language: 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white), 
   ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white), 
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E), 
@@ -32,6 +26,12 @@
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux), 
   ![NodeJS](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white), 
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgreSQL), 
+
+
+
+- Primary OS:
+  ![iOS](https://img.shields.io/badge/iOS-%23000000.svg?style=for-the-badge&logo=ios&logoColor=white), 
+  ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
   
 
 - IDEs
