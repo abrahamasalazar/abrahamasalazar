@@ -11,7 +11,9 @@
 ### Languages
 
 #### Spoken:
-- 🇺🇸English (Distinguished), (C2) - 🇪🇸Spanish (Superior), (C1) - 🇦🇲Armenian (Beginner), (A1)
+- 🇺🇸English (Distinguished), (C2)<br>
+- 🇪🇸Spanish (Superior), (C1)<br>
+- 🇦🇲Armenian (Beginner), (A1)
 
 #### Code:
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white), 
