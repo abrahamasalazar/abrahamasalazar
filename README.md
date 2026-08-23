@@ -2,7 +2,7 @@
 
 
 
-### 🔘 About Me 
+## 🔘 About Me 
   - Full Stack, Flutter, & iOS Developer 👨🏻‍💻
   - EMT & EMD Certified 🪪
   - Los Angeles native 🌇
@@ -20,7 +20,7 @@
 
   
   
-### 🔘 Languages
+## 🔘 Languages
 
   #### Spoken:
   🇺🇸 English *(Distinguished), (C2)*<br>
@@ -42,7 +42,7 @@
 
   
   
-### 🔘 Socials
+## 🔘 Socials
 <a href="https://www.linkedin.com/in/abrahamasalazar" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a><br>
 <a href="https://www.facebook.com/activekingabe" target="_blank">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a><br>
 <a href="https://www.instagram.com/activekingabraham" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a><br>
