@@ -7,12 +7,6 @@
   - Emergency Medical Technician *(EMT)* & Emergency Medical Dispatcher *(EMD)* Certified 🪪
   - Mexican-American 🇲🇽 🇺🇸
     
--------------------- *Favorite Quote* --------------------
-
-"Do unto others as you would have them do unto you."
-- The Golden Rule
-
---------------------------------------------------------
 
 
   
