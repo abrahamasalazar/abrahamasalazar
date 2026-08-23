@@ -4,7 +4,7 @@
 
 ## 🔘 About Me 
   - Full Stack & Flutter Developer 👨🏻‍💻
-  - EMT & EMD Certified 🪪
+  - Emergency Medical Technician *(EMT)* & Emergency Medical Dispatcher *(EMD)* Certified 🪪
   - Mexican-American 🇲🇽 🇺🇸
 
 
