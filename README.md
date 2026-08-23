@@ -8,6 +8,8 @@
   - Los Angeles native 🌇
   - Mexican-American 🇲🇽 🇺🇸
 
+## 🔘 Ecosystem
+
 #### ▫️Primary OS:
   ![iOS](https://img.shields.io/badge/iOS-%23000000.svg?style=for-the-badge&logo=ios&logoColor=white)<br>
   ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)<br>
