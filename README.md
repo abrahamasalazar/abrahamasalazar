@@ -1,4 +1,5 @@
-## Hello, World!<br> My name is Abraham Armando Salazar 👋🏻
+## <p align="center">Hello, World!</p>
+<p align="center">My name is Abraham Armando Salazar 👋🏻</p> 
 
 
 
