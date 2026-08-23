@@ -8,12 +8,12 @@
   - Los Angeles native 🌇
   - Mexican-American 🇲🇽 🇺🇸
 
-#### 🔘 Primary OS:
+#### ▫️Primary OS:
   ![iOS](https://img.shields.io/badge/iOS-%23000000.svg?style=for-the-badge&logo=ios&logoColor=white)<br>
   ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)<br>
   ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)<br>
   
-#### 🔘 IDEs:
+#### ▫️ IDEs:
   ![Xcode](https://img.shields.io/badge/Xcode-%23007ACC.svg?style=for-the-badge&logo=Xcode&logoColor=white)<br>
   [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)<br>
   
