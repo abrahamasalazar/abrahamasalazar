@@ -52,7 +52,7 @@
 ## 🔘 Social Media
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abrahamasalazar" target="_blank"><img width="50" height="50" alt="LinkedIn"     src="https://github.com/user-attachments/assets/c18d8286-4d03-47b0-ae4d-0a0a1f4401ae"/></a>
+  <a href="https://www.linkedin.com/in/abrahamasalazar" target="_blank"><img width="50" height="50" alt="LinkedIn" src="https://github.com/user-attachments/assets/c18d8286-4d03-47b0-ae4d-0a0a1f4401ae"/></a>
   <a href="https://www.facebook.com/activekingabe" target="_blank"><img width="50" height="50" alt="Facebook" src="https://github.com/user-attachments/assets/86fbeea9-978d-49f8-b89a-577b8540647a"/></a>
   <a href="https://www.instagram.com/activekingabraham" target="_blank"><img width="50" height="50" alt="Instagram" src="https://github.com/user-attachments/assets/125ecac4-9906-41bc-8b27-971f81e581a3"/></a>
   <a href="https://discord.com/users/activekingabraham" target="_blank"><img width="50" height="50" alt="Discord" src="https://github.com/user-attachments/assets/8f836544-038c-4d56-a8a4-a4bfbbd03e79"/></a>
