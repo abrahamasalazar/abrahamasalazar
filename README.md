@@ -49,12 +49,10 @@
   
   
 ## 🔘 Social Media Platforms
-<a href="https://www.linkedin.com/in/abrahamasalazar" target="_blank"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/738d7ef3-f4fc-48a3-af44-0ec860453465"/></a>
+<a href="https://www.linkedin.com/in/abrahamasalazar" target="_blank"><img width="50" height="50" alt="LinkedIn" src="https://github.com/user-attachments/assets/738d7ef3-f4fc-48a3-af44-0ec860453465"/></a>
 
+<a href="https://www.facebook.com/activekingabe" target="_blank"><img width="50" height="50" alt="Facebook" src="https://github.com/user-attachments/assets/a327fa31-5f67-4bf9-801a-4f43a6d9f4f2"/></a>
 
+<a href="https://www.instagram.com/activekingabraham" target="_blank"><img width="50" height="50" alt="Instagram" src="https://github.com/user-attachments/assets/43881d0b-7b2a-4a46-b04c-2dc9e17e19ca"/></a>
 
-
-<a href="https://www.linkedin.com/in/abrahamasalazar" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a><br>
-<a href="https://www.facebook.com/activekingabe" target="_blank">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a><br>
-<a href="https://www.instagram.com/activekingabraham" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a><br>
-<a href="https://wa.me/activekingabraham" target="_blank">![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)</a><br>
+<a href="https://wa.me/activekingabraham" target="_blank"><img width="50" height="50" alt="WhatsApp" src="https://github.com/user-attachments/assets/9e4c1b72-402c-471a-bad3-6577070303ba"/></a>
