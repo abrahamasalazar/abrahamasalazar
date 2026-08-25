@@ -5,10 +5,11 @@
 </p>
 
 ## 🔘 About Me
-  - Los Angeles native 🌇
-  - Full Stack & Flutter Developer 👨🏻‍💻
-  - Emergency Medical Technician *(EMT)* & Emergency Medical Dispatcher *(EMD)* Certified 🪪
-  - Mexican-American 🇲🇽 🇺🇸
+  I’m a Full-Stack, iOS, and Flutter developer working at the intersection of technology and healthcare. My work focuses on using technology to bridge gaps in healthcare and make it more accessible and connected for everyone.
+
+My journey in healthcare started as an Emergency Medical Dispatcher, where I developed a strong foundation in communication, critical thinking, and patient care. I later became an Emergency Medical Technician, gaining firsthand experience working alongside patients, nurses, physicians, and other healthcare professionals.
+
+Helping others has always been at the heart of what I do. Combining that passion with my love for technology has allowed me to bring together two fields that I genuinely care about: healthcare and software development. I’m driven by the opportunity to build meaningful solutions that make a real difference in people’s lives.
     
 
 
