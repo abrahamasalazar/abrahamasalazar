@@ -1,7 +1,8 @@
 # <div align="center">Hello, World!<br> My name is Abraham Armando Salazar 👋🏻</div> 
 
-https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
 
 ## 🔘 About Me 
   - Full Stack & Flutter Developer 👨🏻‍💻
