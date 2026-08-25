@@ -49,7 +49,9 @@
   
   
 ## 🔘 Social Media
-<a href="https://www.linkedin.com/in/abrahamasalazar" target="_blank"><img width="50" height="50" alt="LinkedIn" src="https://github.com/user-attachments/assets/738d7ef3-f4fc-48a3-af44-0ec860453465"/></a>
-<a href="https://www.facebook.com/activekingabe" target="_blank"><img width="50" height="50" alt="Facebook" src="https://github.com/user-attachments/assets/a327fa31-5f67-4bf9-801a-4f43a6d9f4f2"/></a>
-<a href="https://www.instagram.com/activekingabraham" target="_blank"><img width="50" height="50" alt="Instagram" src="https://github.com/user-attachments/assets/43881d0b-7b2a-4a46-b04c-2dc9e17e19ca"/></a>
-<a href="https://wa.me/activekingabraham" target="_blank"><img width="50" height="50" alt="WhatsApp" src="https://github.com/user-attachments/assets/9e4c1b72-402c-471a-bad3-6577070303ba"/></a>
+
+<a href="https://www.linkedin.com/in/abrahamasalazar" target="_blank"><img width="50" height="50" alt="LinkedIn" src="https://github.com/user-attachments/assets/c18d8286-4d03-47b0-ae4d-0a0a1f4401ae"/></a>
+<a href="https://www.facebook.com/activekingabe" target="_blank"><img width="50" height="50" alt="Facebook" src="https://github.com/user-attachments/assets/86fbeea9-978d-49f8-b89a-577b8540647a"/></a>
+<a href="https://www.instagram.com/activekingabraham" target="_blank"><img width="50" height="50" alt="Instagram" src="https://github.com/user-attachments/assets/125ecac4-9906-41bc-8b27-971f81e581a3"/></a>
+<a href="https://discord.com/users/activekingabraham" target="_blank"><img width="50" height="50" alt="Discord" src="https://github.com/user-attachments/assets/8f836544-038c-4d56-a8a4-a4bfbbd03e79"/></a>
+<a href="https://wa.me/activekingabraham" target="_blank"><img width="50" height="50" alt="WhatsApp" src="https://github.com/user-attachments/assets/04b181b5-acfc-4de7-bbbf-0953dc5dd621"/></a>
