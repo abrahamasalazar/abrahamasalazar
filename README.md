@@ -49,7 +49,9 @@
   
   
 ## 🔘 Social Media Platforms
-<a href="https://www.linkedin.com/in/abrahamasalazar" target="_blank"><img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/738d7ef3-f4fc-48a3-af44-0ec860453465"/></a>
+<a href="https://www.linkedin.com/in/abrahamasalazar" target="_blank"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/738d7ef3-f4fc-48a3-af44-0ec860453465"/></a>
+
+
 
 
 <a href="https://www.linkedin.com/in/abrahamasalazar" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a><br>
