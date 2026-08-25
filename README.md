@@ -4,7 +4,8 @@
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
-## 🔘 About Me 
+## 🔘 About Me
+  - Los Angeles native 🌇
   - Full Stack & Flutter Developer 👨🏻‍💻
   - Emergency Medical Technician *(EMT)* & Emergency Medical Dispatcher *(EMD)* Certified 🪪
   - Mexican-American 🇲🇽 🇺🇸
