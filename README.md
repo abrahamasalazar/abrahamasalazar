@@ -5,7 +5,7 @@
 </p>
 
 ## 🔘 About Me
-  I’m a Full-Stack, iOS, and Flutter developer working at the intersection of technology and healthcare. My work focuses on using technology to bridge gaps in healthcare and make it more accessible and connected for everyone.
+  I’m a Software Developer working between technology and healthcare. My work focuses on using technology to bridge gaps in healthcare and make it more accessible and connected for everyone.
 
 
   
@@ -24,7 +24,6 @@
   ![Swift](https://img.shields.io/badge/Swift-F05138.svg?style=for-the-badge&logo=Swift&logoColor=white)<br>
   ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![NodeJS](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
 
@@ -49,7 +48,7 @@
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   ![JSON](https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=JSON&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
   
 ## 🔘 Social Media
