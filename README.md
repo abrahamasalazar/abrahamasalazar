@@ -6,7 +6,8 @@
 
 ## 🔘 About Me
   I’m a Software Developer working between technology and healthcare.<br>
-  My work focuses on using technology to bridge gaps in healthcare and make it more accessible and connected for everyone.
+  My work focuses on using technology to bridge gaps in healthcare and<br> 
+  make it more accessible and connected for everyone.
 
 
   
