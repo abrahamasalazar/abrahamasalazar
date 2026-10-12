@@ -1,4 +1,4 @@
-# <div align="center">Hello, World!<br> My name is Abraham Armando Salazar 👋🏻</div> 
+# <div align="center">Hello, World!<br> My name is Abraham 👋🏻</div> 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
